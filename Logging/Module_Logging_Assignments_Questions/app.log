@@ -1,0 +1,15 @@
+DEBUG:root:Debug
+INFO:root:info
+WARNING:root:warn
+ERROR:root:error
+CRITICAL:root:critical
+DEBUG:root:Debug
+INFO:root:info
+WARNING:root:warn
+ERROR:root:error
+CRITICAL:root:critical
+DEBUG:custom:This is a debug message
+INFO:custom:This is an info message
+WARNING:custom:This is a warning message
+ERROR:custom:This is an error message
+CRITICAL:custom:This is a critical message

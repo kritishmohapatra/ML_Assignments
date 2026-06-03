@@ -1,0 +1,5 @@
+2026-06-02 17:04:14,917 - custom_m - DEBUG - This is a debug message
+2026-06-02 17:04:14,919 - custom_m - INFO - This is an info message
+2026-06-02 17:04:14,920 - custom_m - WARNING - This is a warning message
+2026-06-02 17:04:14,921 - custom_m - ERROR - This is an error message
+2026-06-02 17:04:14,925 - custom_m - CRITICAL - This is a critical message

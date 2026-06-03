@@ -1,0 +1,10 @@
+2026-06-02 17:17:36,520 - conetxt - DEBUG - This is a debug message - test_func - 10
+2026-06-02 17:17:36,521 - conetxt - INFO - This is an info message - test_func - 11
+2026-06-02 17:17:36,521 - conetxt - WARNING - This is a warning message - test_func - 12
+2026-06-02 17:17:36,522 - conetxt - ERROR - This is an error message - test_func - 13
+2026-06-02 17:17:36,522 - conetxt - CRITICAL - This is a critical message - test_func - 14
+2026-06-02 17:20:28,083 - conetxt - DEBUG - This is a debug message - test_func - 14
+2026-06-02 17:20:28,083 - conetxt - INFO - This is an info message - test_func - 15
+2026-06-02 17:20:28,085 - conetxt - WARNING - This is a warning message - test_func - 16
+2026-06-02 17:20:28,085 - conetxt - ERROR - This is an error message - test_func - 17
+2026-06-02 17:20:28,085 - conetxt - CRITICAL - This is a critical message - test_func - 18
